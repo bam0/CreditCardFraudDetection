@@ -1,2 +1,3 @@
 # CreditCardFraudDetection
-Detecting credit card fraud using ML techniques. 
+
+This project addresses the issue of credit card fraud, which accounted for approximately 390,000 reported cases and cost Americans around $5-6 billion in 2021. The data comes from a simulated dataset of one million credit card transactions sourced from Kaggle, which contains labeled instances of both fraudulent and legitimate transactions. Decision trees and logistic regression models were implemented using Python's scikit-learn library, with the conclusion being that the decision tree model offers greater accuracy in predicting fraudulent transactions based on significant indicators such as cost-ratio and geographical distance. 
